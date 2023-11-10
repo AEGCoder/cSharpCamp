@@ -1,0 +1,15 @@
+/Users/aeg/jobApp/cSharpKamp/Opp/bin/Debug/net7.0/Opp
+/Users/aeg/jobApp/cSharpKamp/Opp/bin/Debug/net7.0/Opp.deps.json
+/Users/aeg/jobApp/cSharpKamp/Opp/bin/Debug/net7.0/Opp.runtimeconfig.json
+/Users/aeg/jobApp/cSharpKamp/Opp/bin/Debug/net7.0/Opp.dll
+/Users/aeg/jobApp/cSharpKamp/Opp/bin/Debug/net7.0/Opp.pdb
+/Users/aeg/jobApp/cSharpKamp/Opp/obj/Debug/net7.0/Opp.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/cSharpKamp/Opp/obj/Debug/net7.0/Opp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/cSharpKamp/Opp/obj/Debug/net7.0/Opp.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/cSharpKamp/Opp/obj/Debug/net7.0/Opp.AssemblyInfo.cs
+/Users/aeg/jobApp/cSharpKamp/Opp/obj/Debug/net7.0/Opp.csproj.CoreCompileInputs.cache
+/Users/aeg/jobApp/cSharpKamp/Opp/obj/Debug/net7.0/Opp.dll
+/Users/aeg/jobApp/cSharpKamp/Opp/obj/Debug/net7.0/refint/Opp.dll
+/Users/aeg/jobApp/cSharpKamp/Opp/obj/Debug/net7.0/Opp.pdb
+/Users/aeg/jobApp/cSharpKamp/Opp/obj/Debug/net7.0/Opp.genruntimeconfig.cache
+/Users/aeg/jobApp/cSharpKamp/Opp/obj/Debug/net7.0/ref/Opp.dll

@@ -1,0 +1,15 @@
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar.deps.json
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar.runtimeconfig.json
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar.dll
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar.pdb
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.AssemblyInfo.cs
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.csproj.CoreCompileInputs.cache
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.dll
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/obj/Debug/net7.0/refint/Koleksiyonlar.dll
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.pdb
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.genruntimeconfig.cache
+/Users/aeg/jobApp/cSharpKamp/Koleksiyonlar/obj/Debug/net7.0/ref/Koleksiyonlar.dll

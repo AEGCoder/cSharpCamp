@@ -1,0 +1,15 @@
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/bin/Debug/net7.0/DegerVeReferansTipleri
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/bin/Debug/net7.0/DegerVeReferansTipleri.deps.json
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/bin/Debug/net7.0/DegerVeReferansTipleri.runtimeconfig.json
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/bin/Debug/net7.0/DegerVeReferansTipleri.dll
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/bin/Debug/net7.0/DegerVeReferansTipleri.pdb
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/obj/Debug/net7.0/DegerVeReferansTipleri.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/obj/Debug/net7.0/DegerVeReferansTipleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/obj/Debug/net7.0/DegerVeReferansTipleri.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/obj/Debug/net7.0/DegerVeReferansTipleri.AssemblyInfo.cs
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/obj/Debug/net7.0/DegerVeReferansTipleri.csproj.CoreCompileInputs.cache
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/obj/Debug/net7.0/DegerVeReferansTipleri.dll
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/obj/Debug/net7.0/refint/DegerVeReferansTipleri.dll
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/obj/Debug/net7.0/DegerVeReferansTipleri.pdb
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/obj/Debug/net7.0/DegerVeReferansTipleri.genruntimeconfig.cache
+/Users/aeg/jobApp/cSharpKamp/DegerVeReferansTipleri/obj/Debug/net7.0/ref/DegerVeReferansTipleri.dll

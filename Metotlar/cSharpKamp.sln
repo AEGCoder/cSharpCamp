@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cSharpKamp", "cSharpKamp.csproj", "{6F6F498A-5023-493D-863C-7C22955D3CFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F6F498A-5023-493D-863C-7C22955D3CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6F498A-5023-493D-863C-7C22955D3CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6F498A-5023-493D-863C-7C22955D3CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6F498A-5023-493D-863C-7C22955D3CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D61BBD5-A909-4ECE-B6AC-17F9B2DE633D}
+	EndGlobalSection
+EndGlobal

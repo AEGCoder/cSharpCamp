@@ -1,0 +1,5 @@
+/Users/aeg/jobApp/cSharpKamp/GenericsIntro/obj/Debug/net7.0/GenericsIntro.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/cSharpKamp/GenericsIntro/obj/Debug/net7.0/GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/cSharpKamp/GenericsIntro/obj/Debug/net7.0/GenericsIntro.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/cSharpKamp/GenericsIntro/obj/Debug/net7.0/GenericsIntro.AssemblyInfo.cs
+/Users/aeg/jobApp/cSharpKamp/GenericsIntro/obj/Debug/net7.0/GenericsIntro.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+/Users/aeg/jobApp/cSharpKamp/bin/Debug/net7.0/cSharpKamp
+/Users/aeg/jobApp/cSharpKamp/bin/Debug/net7.0/cSharpKamp.deps.json
+/Users/aeg/jobApp/cSharpKamp/bin/Debug/net7.0/cSharpKamp.runtimeconfig.json
+/Users/aeg/jobApp/cSharpKamp/bin/Debug/net7.0/cSharpKamp.dll
+/Users/aeg/jobApp/cSharpKamp/bin/Debug/net7.0/cSharpKamp.pdb
+/Users/aeg/jobApp/cSharpKamp/obj/Debug/net7.0/cSharpKamp.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/cSharpKamp/obj/Debug/net7.0/cSharpKamp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/cSharpKamp/obj/Debug/net7.0/cSharpKamp.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/cSharpKamp/obj/Debug/net7.0/cSharpKamp.AssemblyInfo.cs
+/Users/aeg/jobApp/cSharpKamp/obj/Debug/net7.0/cSharpKamp.csproj.CoreCompileInputs.cache
+/Users/aeg/jobApp/cSharpKamp/obj/Debug/net7.0/cSharpKamp.dll
+/Users/aeg/jobApp/cSharpKamp/obj/Debug/net7.0/refint/cSharpKamp.dll
+/Users/aeg/jobApp/cSharpKamp/obj/Debug/net7.0/cSharpKamp.pdb
+/Users/aeg/jobApp/cSharpKamp/obj/Debug/net7.0/cSharpKamp.genruntimeconfig.cache
+/Users/aeg/jobApp/cSharpKamp/obj/Debug/net7.0/ref/cSharpKamp.dll
