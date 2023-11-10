@@ -1,0 +1,15 @@
+/Users/aeg/jobApp/cSharpKamp/Opp3/bin/Debug/net7.0/Opp3
+/Users/aeg/jobApp/cSharpKamp/Opp3/bin/Debug/net7.0/Opp3.deps.json
+/Users/aeg/jobApp/cSharpKamp/Opp3/bin/Debug/net7.0/Opp3.runtimeconfig.json
+/Users/aeg/jobApp/cSharpKamp/Opp3/bin/Debug/net7.0/Opp3.dll
+/Users/aeg/jobApp/cSharpKamp/Opp3/bin/Debug/net7.0/Opp3.pdb
+/Users/aeg/jobApp/cSharpKamp/Opp3/obj/Debug/net7.0/Opp3.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/cSharpKamp/Opp3/obj/Debug/net7.0/Opp3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/cSharpKamp/Opp3/obj/Debug/net7.0/Opp3.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/cSharpKamp/Opp3/obj/Debug/net7.0/Opp3.AssemblyInfo.cs
+/Users/aeg/jobApp/cSharpKamp/Opp3/obj/Debug/net7.0/Opp3.csproj.CoreCompileInputs.cache
+/Users/aeg/jobApp/cSharpKamp/Opp3/obj/Debug/net7.0/Opp3.dll
+/Users/aeg/jobApp/cSharpKamp/Opp3/obj/Debug/net7.0/refint/Opp3.dll
+/Users/aeg/jobApp/cSharpKamp/Opp3/obj/Debug/net7.0/Opp3.pdb
+/Users/aeg/jobApp/cSharpKamp/Opp3/obj/Debug/net7.0/Opp3.genruntimeconfig.cache
+/Users/aeg/jobApp/cSharpKamp/Opp3/obj/Debug/net7.0/ref/Opp3.dll
