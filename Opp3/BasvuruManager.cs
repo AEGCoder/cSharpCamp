@@ -7,10 +7,11 @@ namespace Opp3
 {
     public class BasvuruManager
     {
-            public void BasvuruYap(IkrediManager krediManager)
+            public void BasvuruYap(IkrediManager krediManager, IloggerServices loggerServices)
           
             {
                  krediManager.Hesapla();
+                  loggerServices.Log();
             }
 
 
